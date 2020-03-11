@@ -1,2 +1,2 @@
 PROVA DEL BRANCH
-modifica file
+modifica file\n
